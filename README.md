@@ -1,2 +1,2 @@
 # Scripts
-Useful scripts for personal use
+Useful custom scripts for personal use
